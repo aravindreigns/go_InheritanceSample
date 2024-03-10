@@ -81,4 +81,5 @@ func main() {
 	fmt.Println()
 
 	bmpReader.Print()
+	fmt.Println()
 }
