@@ -1,5 +1,6 @@
 // Task - To Implement Inheritance in Go Lang
-// Base Type is
+// Base Type is File Reader
+// Derived Types are Text file reader, PDF File Reader, BMP File Reader
 package main
 
 import "fmt"
